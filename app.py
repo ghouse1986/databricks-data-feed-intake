@@ -23,7 +23,7 @@ FULL_TABLE_NAME = f"{CATALOG}.{SCHEMA}.{TABLE_NAME}"
 
 # Page configuration
 st.set_page_config(
-    page_title="Data Feed Intake Form",
+    page_title="OHIA Data Feed Intake Form",
     page_icon="📊",
     layout="wide"
 )
